@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="my_primary">#1db8ad</color>
+    <color name="my_primary_two">#6DC5BE</color>
+    <color name="my_primary_three">#D8F1EF</color>
+    <color name="grey">#898989</color>
+</resources>
+
+<!--Build color system-->

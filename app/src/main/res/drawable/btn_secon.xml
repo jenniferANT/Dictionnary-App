@@ -1,0 +1,21 @@
+<!-- res/drawable/dynamic_rounded_button.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <solid android:color="#FF4081" />
+            <corners android:radius="8dp" />
+            <stroke
+                android:width="2dp"
+                android:color="#3F51B5" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#FF4081" />
+            <corners android:radius="8dp" />
+            <stroke
+                android:width="2dp"
+                android:color="#3F51B5" />
+        </shape>
+    </item>
+</selector>
